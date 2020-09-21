@@ -1,0 +1,41 @@
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
+# Visio autosave temporary files
+*.~vsd*
+
+# ZIP
+*.zip
+
+# PL/SQL Developer temp files
+*.~sql
+
+# Tableau data extracts
+*.tde
+
+# depl units file
+units.lst
+
+#logs
+*.log
+
+# MAC users
+.DS_Store
+
+# VENV directory
+.venv
+
+# Sublime Text config files
+*.sublime-project
+*.sublime-workspace
